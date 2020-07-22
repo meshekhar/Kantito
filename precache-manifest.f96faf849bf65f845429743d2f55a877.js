@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8aae5525ed23aad119fa85bf508f3b5",
+    "revision": "6f7ab9001f871c123d5ce9c65536ba78",
     "url": "/kantito/index.html"
   },
   {
-    "revision": "f772b562ea79bac431dd",
+    "revision": "d8cca1860d53e69c290f",
     "url": "/kantito/static/css/main.f5c2190c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kantito/static/js/2.0cbdb77f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f772b562ea79bac431dd",
-    "url": "/kantito/static/js/main.3ae22e0b.chunk.js"
+    "revision": "d8cca1860d53e69c290f",
+    "url": "/kantito/static/js/main.c92bb7f3.chunk.js"
   },
   {
     "revision": "f754573327ebf754d6d5",
