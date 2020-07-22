@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f7ab9001f871c123d5ce9c65536ba78",
+    "revision": "62f9f109637932da130aa61fef24e940",
     "url": "/kantito/index.html"
   },
   {
