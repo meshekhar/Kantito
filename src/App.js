@@ -28,7 +28,7 @@ class App extends React.Component {
         return (
             <div>
                 <div className="header">
-                    <h1>Pokemon Kentito</h1>
+                    <h1>Pokemon Kantito</h1>
                     <SearchBox placeholder="Search Pokemon"
                                handleChange={this.handleChange}/>
                 </div>
